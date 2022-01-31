@@ -5,10 +5,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Assessment2\**" />
-    <EmbeddedResource Remove="Assessment2\**" />
-    <None Remove="Assessment2\**" />
-  </ItemGroup>
-
 </Project>

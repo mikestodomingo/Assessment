@@ -1,3 +1,7 @@
+C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.AssemblyInfoInputs.cache
+C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.AssemblyInfo.cs
+C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.csproj.CoreCompileInputs.cache
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\bin\Debug\net5.0\Assessment1.exe
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\bin\Debug\net5.0\Assessment1.deps.json
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\bin\Debug\net5.0\Assessment1.runtimeconfig.json
@@ -6,10 +10,6 @@ C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\bin
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\bin\Debug\net5.0\ref\Assessment1.dll
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\bin\Debug\net5.0\Assessment1.pdb
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.csprojAssemblyReference.cache
-C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.AssemblyInfoInputs.cache
-C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.AssemblyInfo.cs
-C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.csproj.CoreCompileInputs.cache
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.dll
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\ref\Assessment1.dll
 C:\Users\michael.sto.domingo\source\repos\Assessment\Assessment1\Assessment1\obj\Debug\net5.0\Assessment1.pdb
